@@ -7,6 +7,7 @@ Here are the highlights of the project...
 2. A dashboard was created with the aid of Plotly, JavaScript and HTML.
 
 Dashboard of Project
+
 ![Project_Dashboard](images/project_bb.PNG)
 
 3. Created a user interface for the user to select their unique identification number from a dropdown menu.
